@@ -1,8 +1,3 @@
-// 맨 앞에 k개의 숫자를 비교한다.
-// 가장 큰 것을 제외한 나머지 r개를 제거한다.
-// 남은 제거해야할 숫자는 k= k-r개이다.
-// k=0이 될 때까지 반복한다.
-
 function solution(number, k) {
   const stack = [];
   let count = 0;
