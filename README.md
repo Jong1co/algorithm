@@ -8,3 +8,4 @@
 - [#17677] [1차]뉴스 클러스터링(해시 테이블) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17677.js)
 - [#181188] 요격 시스템(탐욕법) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/181188.js)
 - [#131127] 할인 행사 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/131127.js)
+- [#87946] 피로도( 완전 탐색 ㅣ 다시 한 번 풀어보기 ) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/87946.js)
