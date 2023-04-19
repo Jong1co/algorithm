@@ -10,3 +10,4 @@
 - [#131127] 할인 행사 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/131127.js)
 - [#87946] 피로도( 완전 탐색 ㅣ 다시 한 번 풀어보기 ) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/87946.js)
 - [#92335] k진수에서 소수 개수 구하기(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92335.js)
+- [#17684] [3차]압축 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17684.js)
