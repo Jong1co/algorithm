@@ -10,14 +10,18 @@ function solution(plans) {
   });
   plans.sort((a, b) => b[1] - a[1]);
 
+  function loadSubjectFromStack(updateStartTime) {
+    let newSubject = stack.pop();
+    newSubject[1] = updateStartTime;
+    plans.push(newSubject);
+  }
+
   while (plans.length > 0) {
     let [subject, start, dur] = plans.pop();
     let endTime = start + dur;
 
     if (plans.length === 0 && stack.length > 0) {
-      let newSubject = stack.pop();
-      newSubject[1] = endTime;
-      plans.push(newSubject);
+      loadSubjectFromStack(endTime);
     } else if (plans.length === 0 && stack.length === 0) {
       answer.push(subject);
       break;
@@ -28,11 +32,8 @@ function solution(plans) {
     } else {
       answer.push(subject);
       if (plans[plans.length - 1][1] === endTime) continue;
-
       if (stack.length > 0) {
-        let newSubject = stack.pop();
-        newSubject[1] = endTime;
-        plans.push(newSubject);
+        loadSubjectFromStack(endTime);
       }
     }
   }
