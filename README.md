@@ -13,3 +13,4 @@
 - [#17684] [3차]압축 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17684.js)
 - [#181187] 두 원 사이의 정수 쌍 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/181187.js)
 - [#42746] 가장 큰 수(정렬) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42746.js)
+- [#176962] 과제 진행하기(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/176962.js)
