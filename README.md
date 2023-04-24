@@ -18,3 +18,4 @@
 - [#154538] 숫자 변환하기(DFS) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/154538.js)
   - dfs로 풀었으나, 테스트케이스 11번 미통과 -> dfs순서를 바꿔서 통과는 했으나, 성능이 6400ms로 매우 좋지 않음
   - dp를 이용한 풀이도 존재하지만, dfs에서 3ms걸리는 반면 dp의 경우는 200ms가 걸리는 테스트 케이스 다수 존재
+- [#178870] 연속된 부분수열의 합 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/178870.js)
