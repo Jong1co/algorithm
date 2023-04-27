@@ -20,3 +20,5 @@
   - dp를 이용한 풀이도 존재하지만, dfs에서 3ms걸리는 반면 dp의 경우는 200ms가 걸리는 테스트 케이스 다수 존재
 - [#178870] 연속된 부분수열의 합 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/178870.js)
 - [#92341] 주차 요금 계산 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92341.js)
+- [#42839] 소수찾기(완전 탐색) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42839.js)
+  - 다시 한 번 풀어볼 것
