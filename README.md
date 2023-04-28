@@ -22,3 +22,4 @@
 - [#92341] 주차 요금 계산 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92341.js)
 - [#42839] 소수찾기(완전 탐색) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42839.js)
   - 다시 한 번 풀어볼 것
+- [#12981] 영어 끝말잇기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12981.js)
