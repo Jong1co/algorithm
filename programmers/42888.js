@@ -20,6 +20,30 @@ function solution(records) {
     });
 }
 
+/**
+ * 최적화
+ */
+function solution(records) {
+  const map = {};
+  const answer = [];
+  records = records.map((record) => record.split(" "));
+
+  for (let i = records.length - 1; i >= 0; i--) {
+    const [_, uid, nickname] = records[i];
+    if (nickname && !map[uid]) map[uid] = nickname;
+  }
+
+  records.forEach(([status, uid]) => {
+    if (status !== "Change") {
+      const text =
+        status === "Enter" ? "님이 들어왔습니다." : "님이 나갔습니다.";
+      answer.push(map[uid] + text);
+    }
+  });
+
+  return answer;
+}
+
 // 25 ~ 32 시간초과
 function solution2(records) {
   let map = {};
