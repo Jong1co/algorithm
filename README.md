@@ -24,3 +24,4 @@
   - 다시 한 번 풀어볼 것
 - [#12981] 영어 끝말잇기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12981.js)
 - [#42842] 카펫 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42842.js)
+- [#42888] 오플채팅방 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42888.js)
