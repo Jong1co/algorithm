@@ -26,3 +26,8 @@
 - [#42842] 카펫 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42842.js)
 - [#42888] 오플채팅방 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42888.js)
 - [#12981] 땅따먹기(dp) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12981.js)
+- [#17686] 파일명 정렬 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17686.js)
+  - split으로 인해 13, 20번 테스트케이스에서 계속 오류가 발생함
+  - 'a123b123'일 경우 `{head : a, number : 123, tail: b123}` 가 되어야 하지만 split을 하고 합치게 되면 'a123b'가 되어버린다.
+  - 예외 케이스 잘 살펴보자..
+  - 걸린시간: 2시간 ..
