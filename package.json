@@ -1,0 +1,27 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "### Level 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "arrnge": "node arrange.js programmers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jong1co/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jong1co/algorithm/issues"
+  },
+  "homepage": "https://github.com/Jong1co/algorithm#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
