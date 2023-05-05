@@ -19,7 +19,7 @@ if (!fs.existsSync(workingDir)) {
     fs.writeFile(path.join(workingDir, `${filename}.test.js`), testForm(filename), console.error);
 } else {
     fs.readdir(path.join(workingDir), (err, data) => {
-        const copyNumber = data.length / 2 + 1;
+        const copyNumber = Math.ceil(data.length / 2) + 1;
         const duplicatedFilename = `${filename}-${copyNumber}`;
 
         fs.writeFile(path.join(workingDir, `${duplicatedFilename}.js`), '//솔루션을 함수를 복붙해주세요', console.error);
