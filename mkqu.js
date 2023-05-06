@@ -2,8 +2,14 @@ const fs = require('fs');
 const path = require('path');
 const { testForm } = require('./form');
 
-const filename = process.argv[2];
-const workingDir = path.join(__dirname, 'programmers', filename);
+const [code, filename] = process.argv[2].split('/');
+
+const platform = {
+    p: 'programmers',
+    l: 'leetcode',
+};
+
+const workingDir = path.join(__dirname, platform[code], filename);
 
 if (!filename) {
     console.log('폴더 이름을 확인하시오');
