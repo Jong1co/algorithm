@@ -1,5 +1,7 @@
 # 알고리즘
 
+## Programmers
+
 ### Level 2
 
 -   [#42586] 기능개발(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42586/42586.js)
@@ -35,3 +37,7 @@
     -   걸린시간: 2시간 ..
 -   [#43165] 타겟넘버 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/43165/43165.js)
     -   dfs문제 -> 이진 트리로 풀었으나 dfs와 속도차이 존재 (16 ms -> 140ms)
+
+## Leetcode
+
+-   palindrome-number [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/leetcode/palindrome-number/palindrome-number.js)
