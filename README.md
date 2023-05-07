@@ -41,3 +41,4 @@
 ## Leetcode
 
 -   palindrome-number [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/leetcode/palindrome-number/palindrome-number.js)
+-   add-two-numbers [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/leetcode/add-two-numbers/add-two-numbers.js)
