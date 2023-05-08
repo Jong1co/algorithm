@@ -41,4 +41,21 @@ var lengthOfLongestSubstring = function (s) {
     return Math.max(count, answer.length);
 };
 
+// var lengthOfLongestSubstring = function (s) {
+//     let i = 0;
+//     let j = 0;
+//     let answer = 0;
+//     const map = {};
+
+//     while (j < s.length) {
+//         if (map[s[j]]) {
+//             i = Math.max(map[s[j]], i);
+//         }
+//         answer = Math.max(answer, j - i + 1);
+//         map[s[j]] = j + 1; // 인덱스를 저장
+//         j++;
+//     }
+//     return answer;
+// };
+
 module.exports = lengthOfLongestSubstring;
