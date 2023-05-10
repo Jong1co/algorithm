@@ -46,3 +46,5 @@
     -   처음 풀었던 방식은 O(n^3) : brute force
     -   두번째 풀었던 방식은 O(n) : sliding window
     -   runtime 10배 이상 차이남
+-   longest-palindromic-substring [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/leetcode/longest-palindromic-substring/longest-palindromic-substring.js)
+    -   two point 알고리즘 : https://www.youtube.com/watch?v=lo8n0ivbhog
