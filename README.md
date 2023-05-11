@@ -15,6 +15,7 @@
 -   [#92335] k진수에서 소수 개수 구하기(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92335/92335.js)
     -   k진수에서 소수 개수 구하기 두 번째 풀이(큐 x) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92335/92335-2.js)
 -   [#17684] [3차]압축 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17684/17684.js)
+    -   [3차]압축 두번째 풀이 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17684-2/17684-2.js)
 -   [#181187] 두 원 사이의 정수 쌍 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/181187/181187.js)
 -   [#42746] 가장 큰 수(정렬) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42746/42746.js)
 -   [#176962] 과제 진행하기(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/176962/176962.js)
