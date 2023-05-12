@@ -1,4 +1,5 @@
 {
-  "editor.wordWrapColumn": 200,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.wordWrapColumn": 200,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontLigatures": true
 }
