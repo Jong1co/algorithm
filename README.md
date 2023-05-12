@@ -25,6 +25,7 @@
     -   dp를 이용한 풀이도 존재하지만, dfs에서 3ms걸리는 반면 dp의 경우는 200ms가 걸리는 테스트 케이스 다수 존재
 -   [#178870] 연속된 부분수열의 합 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/178870/178870.js)
 -   [#92341] 주차 요금 계산 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92341/92341.js)
+    -   주차 요금 계산 두번째 풀이 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/92341-2/92341-2.js)
 -   [#42839] 소수찾기(완전 탐색) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42839/42839.js)
     -   다시 한 번 풀어볼 것
 -   [#12981] 영어 끝말잇기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12981/12981.js)
@@ -40,6 +41,7 @@
     -   dfs문제 -> 이진 트리로 풀었으나 dfs와 속도차이 존재 (16 ms -> 140ms)
 -   [#17683] [3차] 방금그곡 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17683/17683.js)
     -   split을 한 후에 Number로 바꿔주지 않아서 27, 30번 테스트케이스 불통..
+-   [#17687] [3차]n진수 게임 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17687/17687.js)
 
 ## Leetcode
 
