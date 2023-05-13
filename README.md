@@ -43,6 +43,7 @@
     -   split을 한 후에 Number로 바꿔주지 않아서 27, 30번 테스트케이스 불통..
 -   [#17687] [3차]n진수 게임 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17687/17687.js)
 -   [#49993] 스킬트리(정규표현식) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/49993/49993.js)
+-   [#42883] 큰 수 만들기(탐욕법) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42883/42883.js)
 
 ## Leetcode
 
