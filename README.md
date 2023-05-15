@@ -46,6 +46,9 @@
 - [#42883] 큰 수 만들기(탐욕법) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42883/42883.js)
 - [#1844] 게임 맵 최단거리(bfs) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/1844/1844.js)
   - 다시 풀어볼 것.. bfs 너무 어려워..
+- [#154539] 뒤에 있는 큰 수 찾기(스택) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/154539/154539.js)
+  - 인덱스를 스택에 저장하고, 큰 수가 나오면 stack에서 해당 요소를 제거하는 방식
+  - 인덱스 또한 저장할 수 있다..
 
 ## Leetcode
 
