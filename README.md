@@ -49,6 +49,7 @@
 - [#154539] 뒤에 있는 큰 수 찾기(스택) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/154539/154539.js)
   - 인덱스를 스택에 저장하고, 큰 수가 나오면 stack에서 해당 요소를 제거하는 방식
   - 인덱스 또한 저장할 수 있다..
+- [#12900] 2 x n 타일링(피보나치) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12900/12900.js)
 
 ## Leetcode
 
