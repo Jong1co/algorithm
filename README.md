@@ -50,6 +50,7 @@
   - 인덱스를 스택에 저장하고, 큰 수가 나오면 stack에서 해당 요소를 제거하는 방식
   - 인덱스 또한 저장할 수 있다..
 - [#12900] 2 x n 타일링(피보나치) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12900/12900.js)
+- [#84512] 모음사전 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/84512/84512.js)
 
 ## Leetcode
 
