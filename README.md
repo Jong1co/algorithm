@@ -2,6 +2,10 @@
 
 ## Programmers
 
+### Level 1
+
+- [#181887] 홀수 vs 짝수 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/181887/181887.js)
+
 ### Level 2
 
 - [#42586] 기능개발(큐) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/42586/42586.js)
