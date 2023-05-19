@@ -1,5 +1,3 @@
-//솔루션을 함수를 복붙해주세요
-
 function controller(direction, coordinate, park) {
   const [y, x] = coordinate;
   let maxY = park.length - 1;
@@ -22,17 +20,18 @@ function controller(direction, coordinate, park) {
 }
 
 function solution(park, routes) {
-  var answer = [];
   let width = park[0].length;
   let idx = park.join('').indexOf('S');
-
   let startPoint = [Math.floor(idx / width), idx % width];
 
   routes.forEach((route) => {
     const [direction, space] = route.split(' ');
-    for (let i = 0; i < space; i++) {
+    let init = startPoint;
+    for (let i = 0; i < Number(space); i++) {
       startPoint = controller(direction, startPoint, park);
-      console.log(startPoint);
+    }
+    if (Math.abs(init[0] - startPoint[0]) !== Number(space) && Math.abs(init[1] - startPoint[1]) !== Number(space)) {
+      startPoint = init;
     }
   });
 
