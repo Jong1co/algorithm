@@ -57,6 +57,8 @@
 - [#12900] 2 x n 타일링(피보나치) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12900/12900.js)
 - [#84512] 모음사전 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/84512/84512.js)
 - [#12899] 124나라의 숫자 (3진법) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12899/12899.js)
+- [#154540] 무인도 여행(bfs) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/154540/154540.js)
+  - 걸린 시간 : 48분
 
 ## Leetcode
 
