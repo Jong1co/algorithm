@@ -60,6 +60,7 @@
 - [#154540] 무인도 여행(bfs) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/154540/154540.js)
   - 걸린 시간 : 48분
 - [#17679] 프렌즈 4블록 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17679/17679.js)
+- [#132265] 롤케이크 자르기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/132265/132265.js)
 
 ## Leetcode
 
