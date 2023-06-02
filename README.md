@@ -61,6 +61,7 @@
   - 걸린 시간 : 48분
 - [#17679] 프렌즈 4블록 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17679/17679.js)
 - [#132265] 롤케이크 자르기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/132265/132265.js)
+- [#118667] 두 큐 합 같게 만들기(투포인트) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/118667/118667.js)
 
 ## Leetcode
 
