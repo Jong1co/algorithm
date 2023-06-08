@@ -64,6 +64,8 @@
 - [#118667] 두 큐 합 같게 만들기(투포인트) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/118667/118667.js)
 - [#131704] 택배상자(스택) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/131704/131704.js)
 - [#68645] 삼각 달팽이 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/68645/68645.js)
+- [#72411] 메뉴 리뉴얼 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/72411/72411.js)
+  - 걸린 시간 : 1시간
 
 ## Leetcode
 
