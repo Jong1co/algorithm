@@ -66,6 +66,8 @@
 - [#68645] 삼각 달팽이 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/68645/68645.js)
 - [#72411] 메뉴 리뉴얼 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/72411/72411.js)
   - 걸린 시간 : 1시간
+- [#41446] 테이블 해시 함수 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/41446/41446.js)
+  - 걸린 시간 : 20분 (문제 이해가 어려워서 오래 걸림)
 
 ## Leetcode
 
