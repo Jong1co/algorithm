@@ -68,6 +68,7 @@
   - 걸린 시간 : 1시간
 - [#41446] 테이블 해시 함수 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/41446/41446.js)
   - 걸린 시간 : 20분 (문제 이해가 어려워서 오래 걸림)
+- [#77485] 해ㅇ렬 테두리 회전하기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/77485/77485.js)
 
 ## Leetcode
 
