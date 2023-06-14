@@ -73,6 +73,7 @@
 - [#91086] 배상 비용 최소화(maxHeap) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/91086/91086.js)
 - [#12936] 줄 서는 방법 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12936/12936.js)
 - [#140107] 점 찍기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/140107/140107.js)
+- [#87377] 교점에 별 만들기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/87377/87377.js)
 
 ### Level3
 
