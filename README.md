@@ -72,6 +72,7 @@
 - [#77485] 해ㅇ렬 테두리 회전하기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/77485/77485.js)
 - [#91086] 배상 비용 최소화(maxHeap) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/91086/91086.js)
 - [#12936] 줄 서는 방법 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12936/12936.js)
+- [#140107] 점 찍기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/140107/140107.js)
 
 ### Level3
 
