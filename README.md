@@ -75,6 +75,7 @@
 - [#140107] 점 찍기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/140107/140107.js)
 - [#87377] 교점에 별 만들기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/87377/87377.js)
 - [#91097] 가장 먼 노드 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/91097/91097.js)
+- [#86971] 전력망 둘로 나누기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/86971/86971.js)
 
 ### Level3
 
