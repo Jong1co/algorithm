@@ -7,6 +7,7 @@
 - [#181887] 홀수 vs 짝수 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/181887/181887.js)
 - [#172928] 공원 산책 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/172928/172928.js)
 - [#161990] 바탕화면 정리 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/161990/161990.js)
+- [#131128] 숫자 짝꿍 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/131128/131128.js)
 
 ### Level 2
 
