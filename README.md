@@ -79,6 +79,7 @@
 - [#86971] 전력망 둘로 나누기 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/86971/86971.js)
 - [#67257] 수식 최대화 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/67257/67257.js)
   - 다시 풀어보자..
+- [#17683-2] [3차] 방금그곡 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17683-2/17683-2.js)
 
 ### Level3
 
