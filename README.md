@@ -81,6 +81,7 @@
   - 다시 풀어보자..
 - [#17683-2] [3차] 방금그곡 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/17683-2/17683-2.js)
 - [#86971-2] 전력망 둘로 나누기(두번째) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/86971-2/86971-2.js)
+- [#12936-2] 줄 서는 방법 두번째 풀이 [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/12936-2/12936-2.js)
 
 ### Level3
 
