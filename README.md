@@ -86,6 +86,7 @@
 ### Level3
 
 - [#91093] 입국 심사(이분 탐색) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/91093/91093.js)
+- [#72413] 합승 요금 계산(다익스트라) [👉 풀이 바로가기](https://github.com/Jong1co/algorithm/blob/main/programmers/72413/72413.js)
 
 ## Leetcode
 
